@@ -1,5 +1,5 @@
 import { FC, memo } from "react";
-import { IUser } from "../../models/User.ts";
+import { IUser } from "../../models/IUser.ts";
 
 interface IUserInfoProps {
   user: IUser;

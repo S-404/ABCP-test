@@ -1,4 +1,4 @@
-import { IUser } from "../models/User.ts";
+import { IUser } from "../models/IUser.ts";
 import { createSlice } from "@reduxjs/toolkit";
 import { userApi } from "../api/userApi.ts";
 

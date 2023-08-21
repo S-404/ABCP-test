@@ -1,5 +1,5 @@
-import { ICompany } from "./Company.ts";
-import { IAddress } from "./Address.ts";
+import { ICompany } from "./ICompany.ts";
+import { IAddress } from "./IAddress.ts";
 
 
 export interface IUser {

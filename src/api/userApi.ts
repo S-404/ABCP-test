@@ -1,5 +1,5 @@
 import { baseApi } from "./baseApi.ts";
-import { IUser } from "../models/User.ts";
+import { IUser } from "../models/IUser.ts";
 
 
 export const userApi = baseApi.injectEndpoints({
